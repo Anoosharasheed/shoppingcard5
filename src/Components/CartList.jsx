@@ -48,7 +48,7 @@ function CartList({ pro }) {
 
         </table>
         <Link to="/"><button className='Shopping1'>Return to Shopping</button></Link>
-        <Link to="/"> <button className='checkbutton'>Check Out</button></Link>
+        <Link to="/order"> <button className='checkbutton'>Check Out</button></Link>
         </>
     )
 }

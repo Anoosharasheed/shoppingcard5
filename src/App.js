@@ -36,7 +36,7 @@ setCart([...cart,data])
      <Route index element={<Productlist pro={products} addToCart={addToCart}></Productlist>}/>
       <Route path='/cart' element={ <CartList pro={cart}></CartList>}/>
       <Route path='/item/:id' element={ <Singleproduct pro={products}></Singleproduct>}/>
-      {/* <Route path="/" element={ <Orderpage/>}> */}
+      <Route path="/order" element={ <Orderpage/>}/>
       </Route>
     </Routes>
     </BrowserRouter>

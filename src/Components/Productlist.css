@@ -148,8 +148,11 @@ background-color: #9CAFB7;
   border-radius: 7px;
   text-decoration: none;
 }
-.Shoppingcard{
-  color: #FFFFFF;
-  float: center;
-  font-size: 100px;
+.Thankyou{
+  background-color: #5e5956;
+  text-align: center;
+  padding: 67px;
+ 
+  
+  
 }
