@@ -1,0 +1,155 @@
+.products {
+  display: flex;
+  padding-top: 270px;
+  flex-direction: column;
+  gap: 85px;
+  padding-left: 99px;
+  width: 70%;
+  padding-bottom: 119px;
+  flex-wrap: wrap;
+}
+.image1 {
+  height: 247px;
+    width: 241px;
+  text-align: center;
+}
+.header{
+  position: relative;
+    top: 2px;
+    left: 40px;
+   
+}
+
+
+.nav{
+  background-color: #000000;
+  width: 117%;
+  padding-left: 28px;
+  height: 118px;
+}
+.logo{
+  height: 89px;
+  width: 102px;
+
+ 
+}
+
+ .image-box{
+  width: 15%;
+  text-align: center;
+ }
+ .about {
+   
+    position: relative;
+    max-width: 457px;
+   
+}
+
+.Cart {
+  margin: auto;
+  height: 10%;
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border: #202020 solid;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+}
+
+.Cart .details{
+  width: 300px !important;
+}
+ 
+ .image-box{
+  width: 15%;
+  text-align: center;
+ }
+ .about{
+  height: 77%;
+  padding-left: 25px;
+  max-width: 446px;
+
+}
+ 
+ .title{
+  padding-top: 5px;
+  line-height: 10px;
+  font-size: 32px;
+  font-family: ‘Open Sans’;
+  font-weight: 800;
+  color: #202020;
+ }
+ .subtitle{
+  line-height: 10px;
+  font-size: 18px;
+  font-family: ‘Open Sans’;
+  font-weight: 600;
+  color: #000000;
+ }
+
+
+.button {
+background-color: #7c6354;
+border-radius: 8px;
+border-style: none;
+box-sizing: border-box;
+color: #FFFFFF;
+cursor: pointer;
+display: inline-block;
+font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+font-weight: 500;
+height: 40px;
+line-height: 20px;
+list-style: none;
+margin: 0;
+outline: none;
+padding: 10px 16px;
+position: relative;
+text-align: center;
+text-decoration: none;
+transition: color 100ms;
+vertical-align: baseline;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+}
+
+.button:hover,
+.button:focus {
+background-color: #9CAFB7;
+
+}
+.cartbtn {
+  background-color: black;
+  color: white;
+  width: 6%;
+  padding: 11px;
+  margin-left: 10px;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 7px;
+}
+.number {
+  font-size: 20px;
+  position: relative;
+  top: 7px;
+  left: 4px;
+}
+.cartlink{
+  background-color: black;
+  color: white;
+  width: 6%;
+  padding: 11px;
+  margin-left: 10px;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 7px;
+  text-decoration: none;
+}
+.Shoppingcard{
+  color: #FFFFFF;
+  float: center;
+  font-size: 100px;
+}

@@ -1,0 +1,71 @@
+.tabledata{
+    width: 73%;
+    padding: 21px;
+    margin-bottom: 45px;
+    margin-left: 225px;
+    border: 1px solid #cc9e81;
+    box-shadow: 1px 2px 10px 20px #1c1d1c;
+    background-color: rgb(167, 167, 167);
+    
+}
+
+
+.top{
+    position: relative;
+    left: -7px;
+    top: 0px;
+    
+}
+.cartimage {
+    width: 157px;
+    
+}
+.title{
+    padding-top: 5px;
+    line-height: 10px;
+    text-align: center;
+    width: 226px;
+    font-size: 32px;
+    font-family: ‘Open Sans’;
+    font-weight: 800;
+    color: #202020;
+}
+.Shopping1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    margin:auto;
+}
+
+.checkbutton{
+    background-color: #7c6354;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #221e1e;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 10px 16px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    display:flex;
+    justify-content: center;text-align: center;
+    left: 1347px;
+
+ } 
+
